@@ -12,7 +12,7 @@ Soy un apasionado por el desarrollo de software que comencé mi camino en este m
 * 🚀  Actualmente estoy trabajando con [Lappiz - Herramienta LowCode](http://https://www.youtube.com/watch?v=Qfc-YxqRRmY&t=2s)
 * 🧠  Estoy aprendiendo Seguridad informática
 
-### Skills
+### Habilidades
 
 
 <p align="left">
@@ -32,10 +32,11 @@ Soy un apasionado por el desarrollo de software que comencé mi camino en este m
 </p>
 
 
-### Socials
+### Redes sociales
 
 <p align="left"> <a href="https://www.github.com/Simontry" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/simontry?igshid=ZDdkNTZiNTM=" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/simón-sanchez-b41306196" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
+### Idiomas
+* 🌍  Inglés B2 Intermedio
+* 🌍  Portugués B2 Avanzado  
 
-<a href="https://github.com/Simontry" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simontry&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
