@@ -6,10 +6,11 @@ Software Developer
 
 Soy un apasionado por el desarrollo de software que comencé mi camino en este mundo a los 13 años con robótica y domótica en C++. Ahora soy un desarrollador fullstack con una gran ambición por nunca dejar de aprender y entregar mi conocimiento a empresas y personas que explotan el universo de la tecnología.
 
-* 🌍  I'm based in Medellín, Colombia.
-* ✉️  You can contact me at [simon.sanchezmaya2000@gmail.com](mailto:simon.sanchezmaya2000@gmail.com)
-* 🚀  I'm currently working on [Lappiz - Herramienta LowCode](http://https://www.youtube.com/watch?v=Qfc-YxqRRmY&t=2s)
-* 🧠  I'm learning Seguridad informática
+* 🌍  Estoy en Medellín, Colombia.
+* ✉️  Me puedes contactar al correo [simon.sanchezmaya2000@gmail.com](mailto:simon.sanchezmaya2000@gmail.com)
+* ✉️ 3124076729
+* 🚀  Actualmente estoy trabajando con [Lappiz - Herramienta LowCode](http://https://www.youtube.com/watch?v=Qfc-YxqRRmY&t=2s)
+* 🧠  Estoy aprendiendo Seguridad informática
 
 ### Skills
 
