@@ -9,7 +9,7 @@ Soy un apasionado por el desarrollo de software que comencé mi camino en este m
 * 🌍  Estoy en Medellín, Colombia.
 * ✉️  Me puedes contactar al correo [simon.sanchezmaya2000@gmail.com](mailto:simon.sanchezmaya2000@gmail.com)
 * ✉️ 3124076729
-* 🚀  Actualmente estoy trabajando con [Lappiz - Herramienta LowCode](http://https://www.youtube.com/watch?v=Qfc-YxqRRmY&t=2s)
+* 🚀  Actualmente estoy trabajando con [Lappiz - Herramienta LowCode](https://www.youtube.com/watch?v=Qfc-YxqRRmY&t=2s)
 * 🧠  Estoy aprendiendo Seguridad informática
 
 ### Habilidades
