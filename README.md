@@ -8,9 +8,8 @@ Soy un apasionado por el desarrollo de software que comencé mi camino en este m
 
 * 🌍  Estoy en Medellín, Colombia.
 * ✉️  Me puedes contactar al correo [simon.sanchezmaya2000@gmail.com](mailto:simon.sanchezmaya2000@gmail.com)
-* ✉️ 3124076729
-* 🚀  Actualmente estoy trabajando con [Lappiz - Herramienta LowCode](https://www.youtube.com/watch?v=Qfc-YxqRRmY&t=2s)
-* 🧠  Estoy aprendiendo Seguridad informática
+* 🚀 +57 3124076729
+* 🧠  Estoy aprendiendo Arquitectura de Software y Cloud computing
 
 ### Habilidades
 
@@ -34,7 +33,7 @@ Soy un apasionado por el desarrollo de software que comencé mi camino en este m
 
 ### Redes sociales
 
-<p align="left"> <a href="https://www.github.com/Simontry" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/simontry?igshid=ZDdkNTZiNTM=" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/simón-sanchez-b41306196" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Simontry" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/simontry?igshid=ZDdkNTZiNTM=" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/simon-sanchez-maya-b41306196" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Idiomas
 * 🌍  Inglés B2 Intermedio
