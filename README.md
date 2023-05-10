@@ -25,6 +25,7 @@ Soy un apasionado por el desarrollo de software que comencé mi camino en este m
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square&color=239120)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=.net&logoColor=white&style=flat-square&color=512BD4)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square&color=339933)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square&color=336791)
 
 ### Idiomas
 * 🌍  Inglés B2 Intermedio
