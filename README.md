@@ -39,3 +39,14 @@ Soy un apasionado por el desarrollo de software que comencé mi camino en este m
 * 🌍  Inglés B2 Intermedio
 * 🌍  Portugués B2 Avanzado  
 
+
+## Programming Languages
+
+- Python ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square&color=3776AB)
+- JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square&color=F7DF1E)
+- Java ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square&color=007396)
+- C++ ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square&color=00599C)
+- HTML/CSS ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26?logo=html5&logoColor=white&style=flat-square&color=E34F26)
+- SQL ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=microsoft-sql-server&logoColor=white&style=flat-square&color=4479A1)
+
+
