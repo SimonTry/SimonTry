@@ -14,6 +14,7 @@ Soy un apasionado por el desarrollo de software que comencé mi camino en este m
 ### Tecnologias
 
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure&logoColor=white&style=flat-square&color=0089D6)
+
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square&color=F05032)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square&color=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square&color=1572B6)
