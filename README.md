@@ -5,7 +5,7 @@ Ingeniero de Sistemas.
 Esp. Ciencia de Datos y Analítica profundización en Big Data y Machine Learning.
 ---------------------------------------------------------------------------------
 
-Soy un apasionado por el desarrollo de software que comencé mi camino en este mundo a los 13 años con robótica y domótica en C++. Ahora soy un desarrollador fullstack con más de 8 años de experiencia y con una gran ambición por nunca dejar de aprender y entregar mi conocimiento a empresas y personas que explotan el universo de la tecnología y el agilismo.<br><br>🌍  Estoy en Medellín, Colombia.<br>✉️  Me puedes contactar al correo simon.sanchezmaya2000@gmail.com<br>🚀 +57 3124076729<br>🧠  Estoy terminando Esp. en Ciencia de datos y Analítica con profundización en Big Data.
+Soy un apasionado por el desarrollo de software que comencé mi camino en este mundo a los 13 años con robótica y domótica en C++. Ahora soy un desarrollador fullstack con más de 8 años de experiencia y con una gran ambición por nunca dejar de aprender y entregar mi conocimiento a empresas y personas que explotan el universo de la tecnología y el agilismo.<br><br>🌍  Estoy en Medellín, Colombia.<br>✉️  Me puedes contactar al correo simon.sanchezmaya2000@gmail.com<br>🚀 +57 3124076729<br>🧠 Esp. en Ciencia de datos y Analítica con profundización en Big Data.
 
 ## Idiomas
 * 🌍  Inglés B2 Intermedio
