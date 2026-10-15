@@ -5,7 +5,11 @@ Ingeniero de Sistemas.
 Esp. Ciencia de Datos y Analítica profundización en Big Data y Machine Learning.
 ---------------------------------------------------------------------------------
 
-Soy un apasionado por el desarrollo de software que comencé mi camino en este mundo a los 13 años con robótica y domótica en C++. Ahora soy un Arquitecto de software con más de 9 años de experiencia y con una gran ambición por nunca dejar de aprender y entregar mi conocimiento a empresas y personas que explotan el universo de la tecnología y los datos.<br><br>🌍  Estoy en Medellín, Colombia.<br>✉️  Me puedes contactar al correo simon.sanchezmaya2000@gmail.com<br>🚀 +57 3124076729<br>🧠 Esp. en Ciencia de datos y Analítica con profundización en Big Data.
+Mi viaje en la tecnología comenzó a los 13 años programando robótica y domótica en C++. Hoy, con más de 9 años de experiencia construyendo y escalando soluciones de software, me desempeño como Arquitecto de Software y CTO, liderando iniciativas que conectan infraestructura cloud, modelos de IA (RAG/MCP) y análisis de datos.
+
+Creo firmemente en el poder de compartir conocimiento, guiar a nuevos talentos y construir tecnología que genere un impacto real en las personas.
+
+<br><br>🌍  Estoy en Medellín, Colombia.<br>✉️  Me puedes contactar al correo simon.sanchezmaya2000@gmail.com<br>🚀 +57 3124076729<br>🧠 Esp. en Ciencia de datos y Analítica con profundización en Big Data.
 
 ## Idiomas
 * 🌍  Inglés B2 Intermedio
